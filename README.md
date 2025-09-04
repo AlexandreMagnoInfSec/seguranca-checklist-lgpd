@@ -64,4 +64,5 @@ Este repositório será atualizado com novas versões do checklist, exemplos e m
 **Alexandre Magno Mattos do Espírito Santo**  
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas e Gestão em Segurança Privada  
 - 🔐 Foco em **Segurança da Informação** e **LGPD**  
-- 💼 LinkedIn: [linkedin.com/in/alexandre-magno-seguranca](https://www.linkedin.com/in/alexandre-magno-infsec)  
+- 💼 LinkedIn: [linkedin.com/in/alexandre-magno-seguranca](https://www.linkedin.com/in/alexandre-magno-infsec)
+- Linkedin: https://www.linkedin.com/in/alexandre-magno-infsec
